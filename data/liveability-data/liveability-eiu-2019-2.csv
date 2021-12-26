@@ -1,0 +1,21 @@
+Country,City,Rank,Overall Rating,Stability,Healthcare,Culture and Environment,Education,Infrastructure
+Austria,Vienna,1,99.1,100,100,96.3,100,100
+Australia,Melbourne,2,98.4,95,100,98.6,100,100
+Australia,Sydney,3,98.1,95,100,97.2,100,100
+Japan,Osaka,4,97.7,100,100,93.5,100,96.4
+Canada,Calgary,5,97.5,100,100,90,100,100
+Canada,Vancouver,6,97.3,95,100,100,100,92.9
+Canada,Toronto,7,97.2,100,100,97.2,100,89.3
+Japan,Tokyo,7,97.2,100,100,94.4,100,92.9
+Denmark,Copenhagen,9,96.8,95,95.8,95.4,100,100
+Australia,Adelaide,10,96.6,95,100,94.2,100,96.4
+Venezuela,Caracas,131,46.9,35,33.3,56.3,66.7,53.6
+Algeria,Algiers,132,44.1,50,45.8,45.4,50,30.4
+Cameroon,Douala,133,44,60,25,48.4,33.3,42.9
+Zimbabwe,Harare,134,42.6,40,20.8,58.6,66.7,35.7
+PNG,Port Moresby,135,41,30,37.5,47,50,46.4
+Pakistan,Karachi,136,40.9,20,45.8,38.7,66.7,51.8
+Libya,Tripoli,137,40.4,35,41.7,40.3,50,41.1
+Bangladesh,Dhaka,138,39.2,55,29.2,40.5,41.7,26.8
+Nigeria,Lagos,139,38.5,20,37.5,53.5,33.3,46.4
+Syria,Damascus,140,30.7,20,29.2,40.5,33.3,32.1

@@ -1,0 +1,210 @@
+Rank 2020,Rank 2021,City,Location,Rank change
+2,1,Ashgabat,Turkmenistan,1
+1,2,Hong Kong,Hong Kong (SAR),-1
+45,3,Beirut,Lebanon,42
+3,4,Tokyo,Japan,-1
+4,5,Zurich,Switzerland,-1
+7,6,Shanghai,China,1
+5,7,Singapore,Singapore,-2
+9,8,Geneva,Switzerland,1
+10,9,Beijing,China,1
+8,10,Bern,Switzerland,-2
+11,11,Seoul,South Korea,0
+13,12,Shenzhen,China,1
+15,13,N’Djamena,Chad,2
+6,14,New York City,United States,-8
+12,15,Tel Aviv,Israel,-3
+25,16,Copenhagen,Denmark,9
+20,17,Guangzhou,China,3
+19,18,London,United Kingdom,1
+18,19,Lagos,Nigeria,-1
+33,20,Libreville,Gabon,13
+17,20,Los Angeles,United States,-3
+28,22,Taipei,Taiwan,6
+22,23,Osaka,Japan,-1
+36,24,Abidjan,CÔte d’Ivoire,12
+16,25,San Francisco,United States,-9
+38,26,Tianjin,China,12
+34,27,Nanjing,China,7
+40,28,Chengdu,China,12
+31,29,Riyadh,Saudi Arabia,2
+49,30,Bangui,Central African Republic,19
+66,31,Sydney,Australia,35
+42,32,Nouméa,New Caledonia,10
+50,33,Paris,France,17
+43,34,Qingdao,China,9
+26,34,Nagoya,Japan,-8
+47,36,Milan,Italy,11
+54,37,Vienna,Austria,17
+44,38,Brazzaville,Congo,6
+46,39,Dublin,Ireland,7
+26,40,Dhaka,Bangladesh,-14
+24,41,Kinshasa,Dem. Rep. Of The Congo,-17
+23,42,Dubai,United Arab Emirates,-19
+28,43,Honolulu,United States,-15
+64,44,Amsterdam,Netherlands,20
+30,45,Chicago,United States,-15
+35,46,Bangkok,Thailand,-11
+65,47,Rome,Italy,18
+37,48,Miami,United States,-11
+56,49,Yaoundé,Cameroon,7
+41,50,Boston,United States,-9
+32,51,Washington,United States,-19
+72,52,Munich,Germany,20
+78,53,Brussels,Belgium,25
+76,54,Frankfurt,Germany,22
+76,55,Oslo,Norway,21
+74,56,Helsinki,Finland,18
+39,56,Abu Dhabi,United Arab Emirates,-17
+75,56,Dakar,Senegal,19
+99,59,Melbourne,Australia,40
+82,60,Berlin,Germany,22
+63,61,Shenyang,China,2
+21,62,Moscow,Russia,-41
+104,63,Perth,Australia,41
+83,63,Luxembourg,Luxembourg,20
+48,65,White Plains,United States,-17
+70,66,Douala,Cameroon,4
+87,67,Madrid,Spain,20
+55,67,Seattle,United States,-12
+52,69,Dallas,United States,-17
+103,70,Auckland,New Zealand,33
+52,71,Manama,Bahrain,-19
+133,72,Stockholm,Sweden,61
+60,72,Atlanta,United States,-12
+100,74,Dusseldorf,Germany,26
+62,75,Morristown,United States,-13
+51,75,Houston,United States,-24
+118,75,Canberra,Australia,43
+60,78,Mumbai,India,-18
+80,78,Manila,Philippines,2
+106,80,Hamburg,Germany,26
+126,81,Brisbane,Australia,45
+58,82,Djibouti,Djibouti,-24
+106,83,Lisbon,Portugal,23
+102,84,Barcelona,Spain,18
+68,85,Abuja,Nigeria,-17
+69,86,Minneapolis,United States,-17
+57,87,Accra,Ghana,-30
+126,88,Adelaide,Australia,38
+66,89,San Juan,Puerto Rico,-23
+97,90,Prague,Czech Republic,7
+73,91,Port of Spain,Trinidad & Tobago,-18
+175,92,Port-au-Prince,Haiti,83
+94,93,Vancouver,Canada,1
+123,94,Wellington,New Zealand,29
+71,94,Amman,Jordan,-23
+104,94,Jeddah,Saudi Arabia,10
+113,97,Riga,Latvia,16
+98,98,Toronto,Canada,0
+116,99,Niamey,Niger,17
+123,100,Lyon,France,23
+80,101,Detroit,United States,-21
+130,102,Stuttgart,Germany,28
+83,103,St. Louis,United States,-20
+83,104,Yangon,Myanmar,-21
+86,104,Jakarta,Indonesia,-18
+92,106,Portland,United States,-14
+134,107,Pointe-à-Pitre,Guadeloupe,27
+134,108,Santiago,Chile,26
+96,108,Muscat,Oman,-12
+91,110,Pittsburgh,United States,-19
+139,110,Bratislava,Slovakia,29
+93,112,Cleveland,United States,-19
+140,113,Cotonou,Benin,27
+121,114,Casablanca,Morocco,7
+138,115,Athens,Greece,23
+113,115,Kuwait City,Kuwait,-2
+101,117,New Delhi,India,-16
+90,117,Panama City,Panama,-27
+89,119,Conakry,Guinea Republic,-30
+59,119,St. Petersburg,Russia,-60
+129,121,Birmingham,United Kingdom,8
+118,122,Bandar Seri Begawan,Brunei,-4
+115,123,Luanda,Angola,-8
+78,124,San Jose,Costa Rica,-46
+109,125,Phnom Penh,Cambodia,-16
+142,126,Bamako,Mali,16
+148,126,Ljubljana,Slovenia,22
+134,128,Aberdeen,United Kingdom,6
+137,129,Montreal,Canada,8
+109,130,Doha,Qatar,-21
+141,131,Glasgow,United Kingdom,10
+88,132,Montevideo,Uruguay,-44
+146,132,Tallinn,Estonia,14
+155,134,Nuremberg,Germany,21
+123,134,Havana,Cuba,-11
+154,136,Lome,Togo,18
+126,137,Cairo,Egypt,-11
+158,138,Leipzig,Germany,20
+116,139,Hanoi,Vietnam,-23
+152,140,Zagreb,Croatia,12
+122,141,Guatemala City,Guatemala,-19
+165,141,Harare,Zimbabwe,24
+111,143,Ho Chi Minh City,Vietnam,-32
+157,143,Vilnius,Lithuania,14
+162,145,Ouagadougou,Burkina Faso,17
+95,145,Nairobi,Kenya,-50
+146,145,Calgary,Canada,1
+149,148,Belfast,United Kingdom,1
+106,149,Kiev,Ukraine,-43
+112,150,Lima,Peru,-38
+132,151,Winston Salem,United States,-19
+120,152,Mexico City,Mexico,-32
+163,152,Tirana,Albania,11
+144,152,Kuala Lumpur,Malaysia,-8
+159,152,Rabat,Morocco,7
+151,156,Ottawa,Canada,-5
+166,156,Limassol,Cyprus,10
+143,158,Chennai,India,-15
+14,159,Victoria,Seychelles,-145
+174,160,Bucharest,Romania,14
+145,161,Quito,Ecuador,-16
+170,162,Budapest,Hungary,8
+183,163,Belgrade,Serbia,20
+169,164,Warsaw,Poland,5
+150,165,Kingston,Jamaica,-15
+180,165,Sofia,Bulgaria,15
+163,167,Dar Es Salaam,Tanzania,-4
+153,168,Buenos Aires,Argentina,-15
+168,169,San Salvador,El Salvador,-1
+171,170,Bengaluru,India,1
+177,171,Kampala,Uganda,6
+172,172,Baku,Azerbaijan,0
+156,173,Istanbul,Turkey,-17
+167,173,Santo Domingo,Dominican Republic,-6
+176,175,Kigali,Rwanda,1
+184,176,Nouakchott,Mauritania,8
+130,177,Sao Paulo,Brazil,-47
+187,178,Cape Town,South Africa,9
+161,179,Maputo,Mozambique,-18
+181,180,Bogota,Colombia,1
+185,181,Kolkata,India,4
+173,182,Port Louis,Mauritius,-9
+177,183,Monterrey,Mexico,-6
+192,184,Johannesburg,South Africa,8
+177,185,Colombo,Sri Lanka,-8
+197,186,Sarajevo,Bosnia-Herzegovina,11
+188,187,Asuncion,Paraguay,1
+196,188,Tegucigalpa,Honduras,8
+193,189,La Paz,Bolivia,4
+185,190,Blantyre,Malawi,-5
+160,191,Rio de Janeiro,Brazil,-31
+202,192,Skopje,North Macedonia,10
+189,193,Almaty,Kazakhstan,-4
+182,194,Addis Ababa,Ethiopia,-12
+191,195,Yerevan,Armenia,-4
+198,196,Managua,Nicaragua,2
+194,197,Minsk,Belarus,-3
+194,198,Algiers,Algeria,-4
+200,199,Islamabad,Pakistan,1
+204,200,Banjul,Gambia,4
+205,201,Karachi,Pakistan,4
+199,202,Gaborone,Botswana,-3
+206,203,Tashkent,Uzbekistan,3
+208,204,Windhoek,Namibia,4
+190,205,Brasilia,Brazil,-15
+209,206,Tunis,Tunisia,3
+203,207,Tbilisi,Georgia,-4
+201,208,Lusaka,Zambia,-7
+206,209,Bishkek,Kyrgyzstan,-3
