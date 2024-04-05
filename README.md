@@ -1,5 +1,7 @@
 # Livability Analysis Project
 
+![image.png](https://zenodo.org/badge/DOI/10.5281/zenodo.10931591.svg)
+
 To run your Jupyter notebook on Python 3.10, a person will need the following:
 
 1. **Python 3.10**: This is the programming language you're using. It can be downloaded and installed from the official Python website.
