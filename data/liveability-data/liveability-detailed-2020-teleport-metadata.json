@@ -1,0 +1,114 @@
+{
+  "dataset_name": "Livability Index Analysis of Different Cities",
+  "description": "This dataset provides a comprehensive analysis of the livability index for various cities around the world. It includes several factors such as housing, cost of living, startups, venture capital, travel connectivity, commute, business freedom, safety, healthcare, education, environmental quality, economy, taxation, internet access, leisure & culture, tolerance, and outdoors.",
+  "data_columns": [
+    {
+      "name": "UA_Name",
+      "description": "Name of the urban area (city).",
+      "datatype": "string"
+    },
+    {
+      "name": "UA_Country",
+      "description": "Country where the urban area is located.",
+      "datatype": "string"
+    },
+    {
+      "name": "UA_Continent",
+      "description": "Continent where the urban area is located.",
+      "datatype": "string"
+    },
+    {
+      "name": "Housing",
+      "description": "Livability index score for housing.",
+      "datatype": "float"
+    },
+    {
+      "name": "Cost of Living",
+      "description": "Livability index score for cost of living.",
+      "datatype": "float"
+    },
+    {
+      "name": "Startups",
+      "description": "Livability index score for startups.",
+      "datatype": "float"
+    },
+    {
+      "name": "Venture Capital",
+      "description": "Livability index score for venture capital.",
+      "datatype": "float"
+    },
+    {
+      "name": "Travel Connectivity",
+      "description": "Livability index score for travel connectivity.",
+      "datatype": "float"
+    },
+    {
+      "name": "Commute",
+      "description": "Livability index score for commute.",
+      "datatype": "float"
+    },
+    {
+      "name": "Business Freedom",
+      "description": "Livability index score for business freedom.",
+      "datatype": "float"
+    },
+    {
+      "name": "Safety",
+      "description": "Livability index score for safety.",
+      "datatype": "float"
+    },
+    {
+      "name": "Healthcare",
+      "description": "Livability index score for healthcare.",
+      "datatype": "float"
+    },
+    {
+      "name": "Education",
+      "description": "Livability index score for education.",
+      "datatype": "float"
+    },
+    {
+      "name": "Environmental Quality",
+      "description": "Livability index score for environmental quality.",
+      "datatype": "float"
+    },
+    {
+      "name": "Economy",
+      "description": "Livability index score for economy.",
+      "datatype": "float"
+    },
+    {
+      "name": "Taxation",
+      "description": "Livability index score for taxation.",
+      "datatype": "float"
+    },
+    {
+      "name": "Internet Access",
+      "description": "Livability index score for internet access.",
+      "datatype": "float"
+    },
+    {
+      "name": "Leisure & Culture",
+      "description": "Livability index score for leisure & culture.",
+      "datatype": "float"
+    },
+    {
+      "name": "Tolerance",
+      "description": "Livability index score for tolerance.",
+      "datatype": "float"
+    },
+    {
+      "name": "Outdoors",
+      "description": "Livability index score for outdoors.",
+      "datatype": "float"
+    }
+  ],
+  "source": "CSV files containing livability index data for various cities.",
+  "format": "CSV",
+  "size": "Variable (depends on the number of cities and factors included)",
+  "license": "To be determined",
+  "accessibility": "The data will be made freely available to the public.",
+  "reuse_conditions": "The data can be reused and redistributed with proper attribution.",
+  "provenance": "The data has been collected and curated for the purpose of livability index analysis.",
+  "data_quality_assurance": "Quality assurance processes have been implemented to ensure the accuracy and reliability of the data."
+}

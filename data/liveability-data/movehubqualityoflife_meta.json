@@ -1,0 +1,49 @@
+{
+  "dataset_name": "City Livability Index Analysis",
+  "description": "This dataset provides a comprehensive analysis of the livability index for selected cities worldwide. It includes factors such as Movehub rating, purchase power, health care, pollution, quality of life, and crime rating.",
+  "data_columns": [
+    {
+      "name": "City",
+      "description": "Name of the city.",
+      "datatype": "string"
+    },
+    {
+      "name": "Movehub Rating",
+      "description": "Overall livability rating for the city according to Movehub.",
+      "datatype": "float"
+    },
+    {
+      "name": "Purchase Power",
+      "description": "Livability score for purchase power (affordability).",
+      "datatype": "float"
+    },
+    {
+      "name": "Health Care",
+      "description": "Livability score for health care.",
+      "datatype": "float"
+    },
+    {
+      "name": "Pollution",
+      "description": "Livability score for pollution levels.",
+      "datatype": "float"
+    },
+    {
+      "name": "Quality of Life",
+      "description": "Livability score for overall quality of life.",
+      "datatype": "float"
+    },
+    {
+      "name": "Crime Rating",
+      "description": "Livability score for crime rate.",
+      "datatype": "float"
+    }
+  ],
+  "source": "CSV file containing livability index data for selected cities.",
+  "format": "CSV",
+  "size": "Variable (depends on the number of cities included)",
+  "license": "To be determined",
+  "accessibility": "The data will be made freely available to the public.",
+  "reuse_conditions": "The data can be reused and redistributed with proper attribution.",
+  "provenance": "The data has been collected and curated for the purpose of city livability index analysis.",
+  "data_quality_assurance": "Quality assurance processes have been implemented to ensure the accuracy and reliability of the data."
+}

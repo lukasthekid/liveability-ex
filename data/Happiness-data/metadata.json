@@ -1,0 +1,74 @@
+{
+  "dataset_name": "World Happiness Report",
+  "description": "This dataset presents the World Happiness Report, which ranks countries based on their happiness scores and various contributing factors. It includes factors such as happiness rank, happiness score, economic factors, social support, health, freedom, generosity, trust in government, and residual dystopia.",
+  "data_columns": [
+    {
+      "name": "Country",
+      "description": "Name of the country.",
+      "datatype": "string"
+    },
+    {
+      "name": "Happiness Rank",
+      "description": "Rank of the country based on happiness score.",
+      "datatype": "integer"
+    },
+    {
+      "name": "Happiness Score",
+      "description": "Happiness score of the country.",
+      "datatype": "float"
+    },
+    {
+      "name": "Whisker High",
+      "description": "High end of the confidence interval for happiness score.",
+      "datatype": "float"
+    },
+    {
+      "name": "Whisker Low",
+      "description": "Low end of the confidence interval for happiness score.",
+      "datatype": "float"
+    },
+    {
+      "name": "Economy (GDP per Capita)",
+      "description": "Economic factor: GDP per capita.",
+      "datatype": "float"
+    },
+    {
+      "name": "Family",
+      "description": "Social support factor.",
+      "datatype": "float"
+    },
+    {
+      "name": "Health (Life Expectancy)",
+      "description": "Health factor: life expectancy.",
+      "datatype": "float"
+    },
+    {
+      "name": "Freedom",
+      "description": "Freedom factor.",
+      "datatype": "float"
+    },
+    {
+      "name": "Generosity",
+      "description": "Generosity factor.",
+      "datatype": "float"
+    },
+    {
+      "name": "Trust (Government Corruption)",
+      "description": "Trust in government factor: perception of corruption.",
+      "datatype": "float"
+    },
+    {
+      "name": "Dystopia Residual",
+      "description": "Dystopia residual factor.",
+      "datatype": "float"
+    }
+  ],
+  "source": "CSV file containing World Happiness Report data.",
+  "format": "CSV",
+  "size": "Variable (depends on the number of countries included)",
+  "license": "To be determined",
+  "accessibility": "The data will be made freely available to the public.",
+  "reuse_conditions": "The data can be reused and redistributed with proper attribution.",
+  "provenance": "The data has been collected and curated for the purpose of analyzing global happiness.",
+  "data_quality_assurance": "Quality assurance processes have been implemented to ensure the accuracy and reliability of the data."
+}

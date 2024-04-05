@@ -1,0 +1,49 @@
+{
+  "dataset_name": "City Cost of Living Analysis",
+  "description": "This dataset provides a comprehensive analysis of the cost of living for selected cities worldwide. It includes factors such as the cost of a cappuccino, cinema ticket, bottle of wine, liter of gasoline, average rent, and average disposable income.",
+  "data_columns": [
+    {
+      "name": "City",
+      "description": "Name of the city.",
+      "datatype": "string"
+    },
+    {
+      "name": "Cappuccino",
+      "description": "Cost of a cappuccino in the city.",
+      "datatype": "float"
+    },
+    {
+      "name": "Cinema",
+      "description": "Cost of a cinema ticket in the city.",
+      "datatype": "float"
+    },
+    {
+      "name": "Wine",
+      "description": "Cost of a bottle of wine in the city.",
+      "datatype": "float"
+    },
+    {
+      "name": "Gasoline",
+      "description": "Cost of one liter of gasoline in the city.",
+      "datatype": "float"
+    },
+    {
+      "name": "Avg Rent",
+      "description": "Average monthly rent for accommodation in the city.",
+      "datatype": "float"
+    },
+    {
+      "name": "Avg Disposable Income",
+      "description": "Average disposable income per month in the city.",
+      "datatype": "float"
+    }
+  ],
+  "source": "CSV file containing cost of living data for selected cities.",
+  "format": "CSV",
+  "size": "Variable (depends on the number of cities included)",
+  "license": "To be determined",
+  "accessibility": "The data will be made freely available to the public.",
+  "reuse_conditions": "The data can be reused and redistributed with proper attribution.",
+  "provenance": "The data has been collected and curated for the purpose of cost of living analysis.",
+  "data_quality_assurance": "Quality assurance processes have been implemented to ensure the accuracy and reliability of the data."
+}

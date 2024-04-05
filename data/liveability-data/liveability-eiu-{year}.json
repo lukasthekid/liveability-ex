@@ -1,0 +1,59 @@
+{
+  "dataset_name": "Livability Index Analysis of Different Cities",
+  "description": "This dataset provides a comprehensive analysis of the livability index for various cities around the world. It includes factors such as overall rating, stability, healthcare, culture and environment, education, and infrastructure.",
+  "data_columns": [
+    {
+      "name": "Country",
+      "description": "Country where the city is located.",
+      "datatype": "string"
+    },
+    {
+      "name": "City",
+      "description": "Name of the city.",
+      "datatype": "string"
+    },
+    {
+      "name": "Rank",
+      "description": "Rank of the city based on overall livability.",
+      "datatype": "integer"
+    },
+    {
+      "name": "Overall Rating",
+      "description": "Overall livability rating for the city.",
+      "datatype": "float"
+    },
+    {
+      "name": "Stability",
+      "description": "Livability score for stability.",
+      "datatype": "float"
+    },
+    {
+      "name": "Healthcare",
+      "description": "Livability score for healthcare.",
+      "datatype": "float"
+    },
+    {
+      "name": "Culture and Environment",
+      "description": "Livability score for culture and environment.",
+      "datatype": "float"
+    },
+    {
+      "name": "Education",
+      "description": "Livability score for education.",
+      "datatype": "float"
+    },
+    {
+      "name": "Infrastructure",
+      "description": "Livability score for infrastructure.",
+      "datatype": "float"
+    }
+  ],
+  "source": "CSV file containing livability index data for selected cities.",
+  "format": "CSV",
+  "size": "Variable (depends on the number of cities included)",
+  "license": "To be determined",
+  "accessibility": "The data will be made freely available to the public.",
+  "reuse_conditions": "The data can be reused and redistributed with proper attribution.",
+  "provenance": "The data has been collected and curated for the purpose of livability index analysis.",
+  "data_quality_assurance": "Quality assurance processes have been implemented to ensure the accuracy and reliability of the data."
+}
